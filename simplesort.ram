@@ -11,6 +11,7 @@
 	load	=7
 	store	1
 	read	0
+	jz	END
 	add	1
 	store	2
 	sub	=1
